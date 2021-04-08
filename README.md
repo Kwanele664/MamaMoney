@@ -1,6 +1,7 @@
 # MamaMoney
 
-### Project Summary
+## Project Summary
+- This Automation project is completed using Selenium Webdriver in Java, with POM pattern.
 
 ### Testing Framework
 - Automation Testing Framework that is used is TestNG.
@@ -15,3 +16,6 @@
 
 ### Design Pattern
 - Page object Model is used as a design pattern to seperate operations and flows from verification test.
+
+#### General Comments
+- TBC
