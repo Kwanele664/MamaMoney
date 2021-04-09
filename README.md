@@ -18,4 +18,4 @@
 - Page object Model is used as a design pattern to seperate operations and flows from verification test.
 
 #### General Comments
-- TBC
+- TBC.
