@@ -18,5 +18,5 @@
 - Page object Model is used as a design pattern to seperate operations and flows from verification test.
 
 ### Dev standard
-Declaration of methods are in a form of PascalCase.
-Declaraton of variables are in a form of camelCase.
+- Declaration of methods are in a form of PascalCase.
+- Declaraton of variables are in a form of camelCase.
