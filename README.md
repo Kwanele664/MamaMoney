@@ -17,5 +17,6 @@
 ### Design Pattern
 - Page object Model is used as a design pattern to seperate operations and flows from verification test.
 
-#### General Comments
-- TBC.
+### Dev standard
+Declaration of methods are in a form of PascalCase.
+Declaraton of variables are in a form of camelCase.
