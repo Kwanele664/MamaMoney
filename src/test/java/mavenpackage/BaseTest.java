@@ -1,4 +1,4 @@
-package mavenpackage.tests;
+package mavenpackage;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -7,7 +7,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import mavenpackage.pages.HomePage;
+import mavenpackage.Pages.HomePage;
 
 public class BaseTest {
     WebDriver driver;

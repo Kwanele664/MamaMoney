@@ -1,4 +1,4 @@
-package mavenpackage.tests;
+package mavenpackage;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

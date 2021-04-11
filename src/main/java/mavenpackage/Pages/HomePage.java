@@ -1,4 +1,4 @@
-package mavenpackage.pages;
+package mavenpackage.Pages;
 
 import java.io.IOException;
 
@@ -35,7 +35,7 @@ public class HomePage extends Page {
     }
 
     private Boolean isPalandrome(String text) {
-        var reversedText = getReverseText(text);
+        String reversedText = getReverseText(text);
 
         if (reversedText == text)
             return true;
@@ -47,7 +47,7 @@ public class HomePage extends Page {
         StringBuilder word = new StringBuilder();
         word.append(text);
 
-        return word.reverse();
+        return word.reverse().toString();
     }
 
 }

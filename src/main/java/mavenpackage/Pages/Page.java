@@ -1,4 +1,4 @@
-package mavenpackage.pages;
+package mavenpackage.Pages;
 
 import java.time.Duration;
 
